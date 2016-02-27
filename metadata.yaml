@@ -1,0 +1,27 @@
+_repo: Barchester-Towers_2432
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: ''
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2000-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2432'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Barsetshire (England: Imaginary place) -- Fiction'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Barchester (England : Imaginary place) -- Fiction'
+title: Barchester Towers
+url: http://www.gutenberg.org/ebooks/2432
